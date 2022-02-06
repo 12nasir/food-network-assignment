@@ -1,0 +1,113 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+span{
+    color: orange;
+}
+button{
+    height: 40px;
+    width: 110px;
+    background-color: coral;
+    border-radius: 20px;
+    border: 0px;
+    font-size: 15px;
+    color: aliceblue;
+    font-weight: 500;
+}
+.text{
+    margin-top: 35px;
+    width: 40%;
+}
+img{
+    height: 500px;
+    width: 500px;
+}
+.container-1{
+    display: flex;
+    margin: 40px;
+    padding: 60px;
+}
+.btn{
+    height: 40px;
+    width: 110px;
+    background-color: coral;
+    border-radius: 20px;
+    border: 0px;
+    font-size: 15px;
+    color: aliceblue;
+    font-weight: 500;
+}
+.about-part{
+    display: flex;
+    margin-left: 30px;
+    padding: 40px;
+}
+.img-2{
+    width: 40%;
+}
+.person{
+    height: 520px;
+    width: 400px;
+}
+
+.half-width{
+    margin: 25px;
+    padding: 40px;
+    width: 40%;
+    margin-top: 60px;
+}
+.top-banner{
+    margin: 30px;
+    padding: 40px;
+    background-image: url(image/shape/7.png);
+    background-repeat: no-repeat;
+}
+.recipie-type{
+    margin: 15px;
+    padding: 40px;
+    text-align: center;
+}
+.food-mg{
+    height: 210px;
+    width: 200px;
+}
+.food-type{
+    display: flex;
+    align-items: center;
+    margin: 20px;
+    padding: 50px;
+}
+.img-tile-p{
+    align-items: center;
+    margin: 20px;
+    padding: 40px;
+    width: 30%;
+    box-shadow: 10px 10px 30px gray;
+    border-radius: 10px;
+}
+.menu-oder{
+    background-color: coral;
+    height: 35px;
+    width: 140px;
+}
+.youtube-btn{
+    align-items: center;
+    height: 100px;
+    width: 80px;
+}
+.margin{
+    margin: 40px;
+    padding: 80px;
+   
+}
+.logo{
+    margin-left: 50px;
+    display: flex;
+    align-items: center;
+}
+footer{
+    padding: 25px;
+    color: aliceblue;
+    text-align: center;
+    background-color: black;
+}
